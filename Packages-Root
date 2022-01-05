@@ -1,0 +1,17 @@
+# loads by default common/packages-{base,apps,xorg}
+
+# XFCE
+xfce4
+xfce4-goodies
+# check pulseaudio - not pulled from elsewhere?
+pulseaudio
+pavucontrol
+
+connman-gtk
+lightdm-gtk-greeter
+light-locker
+
+# GTK
+epiphany
+leafpad
+atril
